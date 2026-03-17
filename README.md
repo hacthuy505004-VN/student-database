@@ -1,20 +1,20 @@
 # student-database
 Student management database using SQL
-## 📌 Overview
+## Overview
 Hệ thống quản lý sinh viên bao gồm các khóa học và đăng ký.
 
-## 🧱 Features
+## Features
 - Manage students and courses
 - Many-to-many relationship
 - Join queries
 
-## 🚀 Technologies
+## Technologies
 - SQL Server
 
-## ▶️ How to run
+## How to run
 1. Run create_tables.sql
 2. Run insert_data.sql
 3. Run query.sql
 
-## 📊 Example Output
+## Example Output
 List students with enrolled courses
