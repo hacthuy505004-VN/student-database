@@ -1,7 +1,7 @@
 # student-database
 Student management database using SQL
 ## 📌 Overview
-Student management system with courses and enrollments.
+Hệ thống quản lý sinh viên bao gồm các khóa học và đăng ký.
 
 ## 🧱 Features
 - Manage students and courses
