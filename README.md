@@ -1,13 +1,12 @@
-# student-database
+## student-database
 Student management database using SQL
 ## Overview
 Hệ thống quản lý sinh viên bao gồm các khóa học và đăng ký.
 
 ## Features
-- Manage students and courses
-- Many-to-many relationship
-- Join queries
-
+- Quản lý sinh viên và khóa học
+- Quan hệ nhiều-nhiều thông qua bảng Enrollments
+- Truy vấn JOIN để lấy dữ liệu liên kết
 ## Technologies
 - SQL Server
 
